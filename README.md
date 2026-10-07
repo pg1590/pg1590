@@ -1,15 +1,12 @@
 ## Prakhar Gupta
 
-Software and robotics developer at **IIIT Hyderabad**. I build autonomous drones and the software around them, from perception and multi-agent learning to full-stack applications.
+Student at **IIIT Hyderabad** working on autonomous drones and the software that runs them.
 
-On the robotics side, I work on drones that perceive, track, and coordinate on their own: multi-agent reinforcement learning for swarms at the Robotics Research Center, and vision-based target following on real quadrotors. On the software side, I build end-to-end products (LLM-powered web apps, ML pipelines with production backends) and systems code down to the OS kernel.
-
-- 🏆 **Finalist** in the MathWorks Minidrone Competition (India, 2025)
-- 🔬 Currently: decentralized swarm coordination with MADDPG → recurrent MAPPO at RRC, IIIT Hyderabad
+Currently researching decentralized swarm coordination with multi-agent RL (MADDPG, moving to recurrent MAPPO) at the Robotics Research Center. Finalist in the MathWorks Minidrone Competition, India 2025. Outside robotics I build full-stack web apps, ML pipelines, and systems code in C.
 
 ---
 
-### 🚁 Robotics & Autonomy
+### Robotics & Autonomy
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -18,7 +15,7 @@ On the robotics side, I work on drones that perceive, track, and coordinate on t
 | [**Marker-Tracking Chaser Drone**](https://github.com/pg1590/UAV-Project) | Real-flight Tello pursuit of an ArUco-marked target with Kalman-filtered tracking, PID control, and logged tracking-error analysis | Python · OpenCV · Kalman filter |
 | [**MathWorks Minidrone Line Follower**](https://github.com/pg1590/mathworks-minidrone-line-follower) | Competition finalist: red-line tracking, arc look-ahead, and landing-marker detection for a Parrot minidrone | MATLAB · Simulink · Stateflow |
 
-### 💻 Software & AI
+### Software & AI
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -28,7 +25,7 @@ On the robotics side, I work on drones that perceive, track, and coordinate on t
 | [**xv6 Extensions**](https://github.com/pg1590/Xv6) | New syscalls (syscall counting, alarms) plus lottery and MLFQ schedulers in the xv6 kernel | C · RISC-V |
 | [**Unix Shell**](https://github.com/pg1590/C-shell) | A POSIX-style shell with pipes, redirection, job control, and signal handling | C · Linux |
 
-### 🔧 Hardware
+### Hardware
 
 | Project | What it is | Stack |
 | --- | --- | --- |
