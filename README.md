@@ -4,6 +4,17 @@ Student at **IIIT Hyderabad** working on autonomous drones and the software that
 
 Currently researching decentralized swarm coordination with multi-agent RL (MADDPG, moving to recurrent MAPPO) at the Robotics Research Center. Finalist in the MathWorks Minidrone Competition, India 2025. Outside robotics I build full-stack web apps, ML pipelines, and systems code in C.
 
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/pg1590/Swarm-Drones-Detection-Tracking-Path-Prediction-and-Navigation"><img src="assets/swarm.gif" height="160" alt="Simulated drone swarm switching formations in PyBullet"></a></td>
+    <td align="center"><a href="https://github.com/pg1590/vision-based-target-following-drone-sim"><img src="assets/detect.gif" height="160" alt="YOLOv8 detecting a drone in flight outdoors"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Multi-agent swarm formations (PyBullet)</sub></td>
+    <td align="center"><sub>YOLOv8 drone detection, outdoors</sub></td>
+  </tr>
+</table>
+
 ---
 
 ### Robotics & Autonomy
