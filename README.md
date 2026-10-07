@@ -6,10 +6,12 @@ Currently researching decentralized swarm coordination with multi-agent RL (MADD
 
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/pg1590/UAV-Project"><img src="assets/rccar.gif" height="160" alt="Onboard Tello view following a moving RC car with YOLOv8 tracking and live distance readout"></a></td>
     <td align="center"><a href="https://github.com/pg1590/Swarm-Drones-Detection-Tracking-Path-Prediction-and-Navigation"><img src="assets/swarm.gif" height="160" alt="Simulated drone swarm switching formations in PyBullet"></a></td>
     <td align="center"><a href="https://github.com/pg1590/vision-based-target-following-drone-sim"><img src="assets/detect.gif" height="160" alt="YOLOv8 detecting a drone in flight outdoors"></a></td>
   </tr>
   <tr>
+    <td align="center"><sub>Real-flight RC car following on a Tello</sub></td>
     <td align="center"><sub>Multi-agent swarm formations (PyBullet)</sub></td>
     <td align="center"><sub>YOLOv8 drone detection, outdoors</sub></td>
   </tr>
@@ -23,7 +25,7 @@ Currently researching decentralized swarm coordination with multi-agent RL (MADD
 | --- | --- | --- |
 | [**Swarm Drone Coordination**](https://github.com/pg1590/Swarm-Drones-Detection-Tracking-Path-Prediction-and-Navigation) | Decentralized multi-UAV target pursuit, formation control, and collision avoidance trained with MARL (CTDE) | Python · PyBullet · MADDPG / MAPPO |
 | [**Vision-Based Target-Following Drone**](https://github.com/pg1590/vision-based-target-following-drone-sim) | A Tello chaser drone that detects another drone with YOLOv8 and pursues it with PID control across figure-8, helix, spiral, and zig-zag paths | Python · YOLOv8 · OpenCV · djitellopy |
-| [**Marker-Tracking Chaser Drone**](https://github.com/pg1590/UAV-Project) | Real-flight Tello pursuit of an ArUco-marked target with Kalman-filtered tracking, PID control, and logged tracking-error analysis | Python · OpenCV · Kalman filter |
+| [**RC Car Follower Drone**](https://github.com/pg1590/UAV-Project) | A Tello that follows a moving RC car outdoors using a custom-trained YOLOv8 detector, CSRT tracking, a Kalman filter, and PID control | Python · YOLOv8 · OpenCV · djitellopy |
 | [**MathWorks Minidrone Line Follower**](https://github.com/pg1590/mathworks-minidrone-line-follower) | Competition finalist: red-line tracking, arc look-ahead, and landing-marker detection for a Parrot minidrone | MATLAB · Simulink · Stateflow |
 
 ### Software & AI
