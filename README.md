@@ -2,7 +2,9 @@
 
 Student at **IIIT Hyderabad** working on autonomous drones and the software that runs them.
 
-Currently researching decentralized swarm coordination with multi-agent RL (MADDPG, moving to recurrent MAPPO) at the Robotics Research Center. Finalist in the MathWorks Minidrone Competition, India 2025. Outside robotics I build full-stack web apps, ML pipelines, and systems code in C.
+Currently researching decentralized swarm coordination with multi-agent RL (MADDPG, moving to recurrent MAPPO) at the Robotics Research Center. In summer 2026 I interned as an ML engineer at Latitude 54, building the perception and decision layer of an autonomous-airspace simulation. Finalist in the MathWorks Minidrone Competition, India 2025. Outside robotics I build full-stack web apps, ML pipelines, and systems code in C.
+
+**[Website](https://pg1590.github.io)** · [LinkedIn](https://www.linkedin.com/in/prakhar-gupta-199744271/) · [Email](mailto:prakhargupta058@gmail.com) · [Resume](https://pg1590.github.io/Prakhar_Gupta_Resume.pdf)
 
 <table>
   <tr>
