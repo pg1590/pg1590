@@ -36,7 +36,7 @@ Currently researching decentralized swarm coordination with multi-agent RL (MADD
 | --- | --- | --- |
 | [**AI Site Builder**](https://github.com/pg1590/AI-Website-Builder) | Full-stack SaaS that generates and iterates websites from prompts, with auth, version history, a public gallery, and Stripe credits | React · TypeScript · Express · Prisma · PostgreSQL |
 | [**Cancer Stratification System**](https://github.com/pg1590/Cancer-Stratification-System) | X-ray risk assessment with an XGBoost pipeline behind a role-based web app for patients, doctors, and radiologists | Python · XGBoost · Node.js · React · MongoDB · Docker |
-| [**AI Claims Assessment**](https://github.com/pg1590/AI-CLAIMS-ASSESMENT-FOR-CAR-INSURANCE) | Car-insurance claim triage: YOLOv8 damage detection, severity and cost estimation, and fraud checks | Python · YOLOv8 · Streamlit |
+| [**AI Claims Assessment**](https://github.com/pg1590/AI-Claims-Assessment-for-Car-Insurance) | Car-insurance claim triage: YOLOv8 damage detection, severity and cost estimation, and fraud checks | Python · YOLOv8 · Streamlit |
 | [**xv6 Extensions**](https://github.com/pg1590/Xv6) | New syscalls (syscall counting, alarms) plus lottery and MLFQ schedulers in the xv6 kernel | C · RISC-V |
 | [**Unix Shell**](https://github.com/pg1590/C-shell) | A POSIX-style shell with pipes, redirection, job control, and signal handling | C · Linux |
 
